@@ -1,0 +1,28 @@
+message: Please cite this software using these metadata.
+title: Cadastro de Processos / Gestão de Protocolo
+authors:
+  - family-names: Bibiano Jardim
+    given-names: Andrey
+  - family-names: Gabriela Evangelista Paixão
+    given-names: Bárbara
+  - family-names: dos Santos
+    given-names: Leonardo
+  - family-names: Ferreira dos Santos
+    given-names: Leonardo
+  - family-names: Cristina Gilberto Pereira
+    given-names: Sara
+  - family-names: Muniz Severino dos Santos
+    given-names: Thiago
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Wilson da Costa
+    given-names: José
+
+keywords:
+  - Protocolo
+  - Processos
+  - Gestão
+  
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t3-pmv-ads-2023-2-e2-proj-web-t3-g1-cadastroDeProcessos
+version: 1.0.0
+date-released: 2023-10-31
